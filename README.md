@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 ![Rittika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rittikashaw&show_icons=true&theme=dark)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rittikashaw&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rittikashaw&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rittikashaw&layout=compact&theme=dark) 
