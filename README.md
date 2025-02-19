@@ -1,4 +1,5 @@
-# 💫 About Me:
+## 👋 Hello, I'm Rittika Shaw, a passionate FrontEnd Web Developer from India
+
 🔭 I’m currently working on Front-end projects.<br>🌱 I’m currently learning Next.js, Node.js, Express.js and exploring MongoDB.<br>📫 How to reach me: LinkedIn<br>⚡ Fun fact: I love exploring new tech and watching web series in my free time! 🎬🚀
 
 
