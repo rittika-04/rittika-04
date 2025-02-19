@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RittikaShaw&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=RittikaShaw&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RittikaShaw&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Rittika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rittikashaw&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rittikashaw&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rittikashaw&layout=compact&theme=dark) 
