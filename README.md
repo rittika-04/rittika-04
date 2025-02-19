@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**rittika-04/rittika-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Rittika Shaw, a passionate FrontEnd Web Developer from India.
 
 Here are some ideas to get you started:
 
