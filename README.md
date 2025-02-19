@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **rittika-04/rittika-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -9,7 +8,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Next.js, Node.js, Express.js and exploring MongoDB.  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rittika-shaw-41454023b)
 - ⚡ Fun fact: I love exploring new tech and watching web series in my free time! 🎬🚀 
---!>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
