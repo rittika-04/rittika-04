@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love exploring new tech and watching web series in my free time! 🎬🚀 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rittika-shaw-41454023b/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:shaw.rittika15@gmail.com)
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
