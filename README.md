@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Front-end projects.<br>
 🌱 I’m currently learning Next.js, Node.js, Express.js and exploring MongoDB.<br>
-📫 How to reach me: LinkedIn<br>
+📫 How to reach me: shaw.rittika15@gmail.com<br>
 ⚡ Fun fact: I love exploring new tech and watching web series in my free time! 🎬🚀
 
 ## 🌐 Socials:
