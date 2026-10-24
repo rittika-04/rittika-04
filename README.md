@@ -1,79 +1,58 @@
 <div align="center">
 
-  # Hi there, I'm Rittika Shaw 👋
-  ### **QA Engineer | Software Developer | SDET**
+# Hi, I'm Rittika Shaw 👋
 
-  <p align="center">
-    <b>B.Tech ECE Graduate</b> • <b>QA Engineer @ ARC Document Solutions</b> • <b>Automation & Dev Enthusiast</b>
-  </p>
+### Junior Software Developer | React & Frontend Development
 
-  <p align="center">
-    <a href="https://linkedin.com/in/rittika-shaw"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:shaw.rittika15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/rittika-04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
+Electronics & Communication Engineering graduate building web applications with JavaScript and React. I currently work as a **QA Intern at ARC Document Solutions** and am strengthening my software development skills through hands-on projects.
 
-  ---
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E7490&center=true&vcenter=true&width=500&lines=Quality+Assurance+Engineer;Software+Developer;REST+API+%26+Automation+Tester;B.Tech+ECE+Graduate+(8.5+SGPA)" alt="Typing SVG" />
+[Portfolio](https://portfolio-9czt.vercel.app/) · [LinkedIn](https://linkedin.com/in/rittika-shaw-41454023b) · [GitHub](https://github.com/rittika-04)
 
 </div>
 
 ---
 
-### 🔭 **About Me**
+## About
 
-- 🏢 **Currently:** QA Engineer at **ARC Document Solutions Pvt. Ltd.**
-- 🎓 **Education:** B.Tech in Electronics & Communication Engineering from **Narula Institute of Technology** (SGPA: 8.5/10).
-- 🧪 **Testing Expertise:** Functional, Regression, API Testing (Postman), Defect Lifecycle, and Quality Engineering.
-- 💻 **Development Focus:** Python, Java, SQL, Object-Oriented Programming (OOP), Data Structures & Algorithms.
-- 🎯 **Goal:** Bridging Quality Assurance with Software Engineering to build high-performance, resilient applications.
+- 🎓 B.Tech in Electronics & Communication Engineering, Narula Institute of Technology
+- 💻 Interested in frontend and software developer opportunities
+- 🧰 Working with React, JavaScript, HTML, CSS, Git, and REST API integrations
+- 🧪 Professional experience in QA and document/content verification
+- 🌱 Continuously improving JavaScript fundamentals, problem-solving, and application development
 
----
+## Skills
 
-### 🛠️ **Tech Stack & Skills**
+**Frontend:** React, JavaScript, HTML5, CSS3, Tailwind CSS  
+**Tools:** Git, GitHub, VS Code  
+**Other areas:** REST APIs, SQL, software testing and quality assurance
 
-<div align="center">
+*Please see individual project repositories for the technologies and implementation details used in each project.*
 
-  | Category | Technologies & Tools |
-  | :--- | :--- |
-  | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-  | **QA & Testing** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) **REST API Testing** • **Regression & Functional** • **Defect Management** • **STLC** |
-  | **Core CS** | **Data Structures & Algorithms** • **OOPs** • **SDLC** • **DBMS** • **Operating Systems** |
-  | **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+## Featured Projects
 
-</div>
+### [Portfolio Website](https://github.com/rittika-04/Portfolio)
+Personal portfolio built with a React-based web stack. The site includes responsive layouts and light/dark theme support as described in the project README.
 
----
+- **Live site:** [portfolio-9czt.vercel.app](https://portfolio-9czt.vercel.app/)
+- **Repository:** [View source code](https://github.com/rittika-04/Portfolio)
 
-### 🚀 **Featured Projects**
+### [Spotify Clone](https://github.com/rittika-04/Spotify-clone)
+A music-app interface project. The README describes music browsing, player controls, playlist functionality, and Firebase authentication; check the live implementation and setup instructions in the repository.
 
-> 📂 **[Automated Query & Data Processing Application](https://github.com/rittika-04/automated-query-processor)**  
-> *Python, SQL, REST APIs, Git*  
-> - Designed a modular application automating query classification and data parsing, cutting manual work by **40%**.  
-> - Integrated REST API endpoints with robust error handling following clean OOP principles.
+### [Rick and Morty App](https://github.com/rittika-04/Ricky-morty-)
+A web project inspired by the Rick and Morty universe. The README and screenshots can be expanded to document the implemented features and API usage.
 
-> 📊 **[Real-Time Performance Dashboard & Data Logger](https://github.com/rittika-04/realtime-performance-dashboard)**  
-> *Python, MySQL, Cloud APIs*  
-> - Engineered database schemas in MySQL logging system metrics in real time with **99% data integrity**.  
-> - Authored unit testing suites to handle edge-case exceptions gracefully.
+### [Weather App](https://github.com/rittika-04/weather-app)
+A weather application project. See the repository for its implementation and current setup instructions.
 
----
+### [Tic-Tac-Toe](https://github.com/rittika-04/Tic-Tac-Toe)
+A small game project demonstrating interactive frontend fundamentals.
 
-### ⚡ GitHub Stats
+### [Pulse-Based Road Accident Prevention](https://github.com/rittika-04/Developing-Pulse-Based-Technologies-to-Prevent-Road-Accidents)
+An ECE project exploring pulse-based technology for road-accident prevention.
 
-<div align="center">
+## Let's Connect
 
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rittika-04&theme=tokyonight&hide_border=true" alt="Rittika's GitHub Streak" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rittika-04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-  ### 💬 **Let's Connect!**
-
-  [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rittika-shaw)
-  [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaw.rittika15@gmail.com)
-
-</div>
+- LinkedIn: https://linkedin.com/in/rittika-shaw-41454023b
+- Portfolio: https://portfolio-9czt.vercel.app/
+- GitHub: https://github.com/rittika-04
